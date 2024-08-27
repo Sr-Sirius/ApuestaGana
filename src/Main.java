@@ -3,6 +3,10 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+
+        // Michael Steeven Sanchez Fernandez
+        // Das un monto inicial de dinero y lo apuestas
+        // 27/08/2024
         Scanner scan = new Scanner(System.in);
         Random aleatorio = new Random();
 
